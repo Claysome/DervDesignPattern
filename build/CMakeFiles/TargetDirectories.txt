@@ -1,0 +1,3 @@
+/Users/claysome/Desktop/Workspace/DervDesignPattern/build/CMakeFiles/SimpleMC1.dir
+/Users/claysome/Desktop/Workspace/DervDesignPattern/build/CMakeFiles/edit_cache.dir
+/Users/claysome/Desktop/Workspace/DervDesignPattern/build/CMakeFiles/rebuild_cache.dir

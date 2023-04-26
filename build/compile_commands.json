@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/claysome/Desktop/Workspace/DervDesignPattern/build",
+  "command": "/usr/bin/clang++ -I/Users/claysome/Desktop/Workspace/DervDesignPattern/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/SimpleMC1.dir/src/SimpleMCMain1.cpp.o -c /Users/claysome/Desktop/Workspace/DervDesignPattern/src/SimpleMCMain1.cpp",
+  "file": "/Users/claysome/Desktop/Workspace/DervDesignPattern/src/SimpleMCMain1.cpp",
+  "output": "CMakeFiles/SimpleMC1.dir/src/SimpleMCMain1.cpp.o"
+},
+{
+  "directory": "/Users/claysome/Desktop/Workspace/DervDesignPattern/build",
+  "command": "/usr/bin/clang++ -I/Users/claysome/Desktop/Workspace/DervDesignPattern/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/SimpleMC1.dir/src/Random1.cpp.o -c /Users/claysome/Desktop/Workspace/DervDesignPattern/src/Random1.cpp",
+  "file": "/Users/claysome/Desktop/Workspace/DervDesignPattern/src/Random1.cpp",
+  "output": "CMakeFiles/SimpleMC1.dir/src/Random1.cpp.o"
+}
+]
